@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://i.ibb.co/gxW1gQc/86096184.jpg"  />
 
 ###
-<h2 align="left">Hi Skills : </h2>
+<h2 align="left">My Skills : </h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
