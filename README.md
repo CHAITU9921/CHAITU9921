@@ -7,13 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHAITU9921&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-  <img src="https://i.ibb.co/gxW1gQc/86096184.jpg" width="150"  alt="Profile Image"/>
-
-
-
-###
 <h2 align="left">My Skills : </h2>
 
 <div align="left">
