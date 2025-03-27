@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/gxW1gQc/86096184.jpg"  />
+<img align="right" height="150"  style="border-radius:150px;" src="https://i.ibb.co/gxW1gQc/86096184.jpg"  />
 
 ###
 <h2 align="left">My Skills : </h2>
