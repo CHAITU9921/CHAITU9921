@@ -9,7 +9,7 @@
 
 ###
 
-  <img src="https://i.ibb.co/gxW1gQc/86096184.jpg" height="150"  alt="Profile Image"/>
+  <img src="https://i.ibb.co/gxW1gQc/86096184.jpg" width="150"  alt="Profile Image"/>
 
 
 
