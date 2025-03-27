@@ -9,9 +9,8 @@
 
 ###
 
-<div align="right">
-  <img src="https://i.ibb.co/gxW1gQc/86096184.jpg" height="150" width="150" style="border-radius: 50%; object-fit: cover;" alt="Profile Image"/>
-</div>
+  <img src="https://i.ibb.co/gxW1gQc/86096184.jpg" height="150" width="150"  alt="Profile Image"/>
+
 
 
 ###
