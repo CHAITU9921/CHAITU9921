@@ -10,8 +10,9 @@
 ###
 
 <div align="right">
-  <img src="https://i.ibb.co/gxW1gQc/86096184.jpg" height="150" style="border-radius: 50%; overflow: hidden;" alt="Profile Image" />
+  <img src="https://i.ibb.co/gxW1gQc/86096184.jpg" height="150" width="150" style="border-radius: 50%; object-fit: cover;" alt="Profile Image"/>
 </div>
+
 
 ###
 <h2 align="left">My Skills : </h2>
