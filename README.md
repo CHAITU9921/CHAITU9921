@@ -48,7 +48,7 @@
 ###
 
 <div align="left">
-  <a href="https://chaitanya-kadam-portfolio.netlify.app/" target="_blank">
+  <a href="www.chaitanyakadam.online" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
   <a href="https://www.linkedin.com/in/chaitanya-kadam-/" target="_blank">
